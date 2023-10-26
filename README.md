@@ -32,7 +32,7 @@ json-server database.json -p 8088
 
 3. Open a new Terminal tab <kbd>⌘T</kbd>, launch the client.
 
-4. Once you are running the database, create a new user, and log in to view the site.
+4. Once you are running the database, log in to view the site.
 
 #### Created by Julie Foster
 
