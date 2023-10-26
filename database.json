@@ -1,0 +1,234 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rabies",
+      "email": "RabiesGravy@yahoo.com"
+    },
+    {
+      "id": 2,
+      "name": "SmallPox",
+      "email": "TheRealSmallPox@yahoo.com"
+    },
+    {
+      "id": 3,
+      "name": "Rotisserie",
+      "email": "DailyRotisserie@yahoo.com"
+    },
+    {
+      "id": 4,
+      "name": "Rotund",
+      "email": "RotundReflections@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Wisp",
+      "email": "Wisplittlefellow@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Cat Man",
+      "email": "Cat_Man@hotmail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://i.stack.imgur.com/jfUyG.jpg",
+      "title": "Candy Wrapper",
+      "price": "$1000.00",
+      "condition": "Only Used Once",
+      "about": "My human left this on the ground... It's mine now.",
+      "userId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "image": "https://i.ebayimg.com/images/g/owwAAOSwjolkPivO/s-l1600.jpg",
+      "title": "Headphones",
+      "price": "$199.00",
+      "condition": "Fairly New",
+      "about": "One of my favorite chew toys. Very versatile.",
+      "userId": 5,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "image": "https://littleredwindow.com/wp-content/uploads/2015/03/cardboard_box_car_01_littleredwindow.jpg",
+      "title": "Box",
+      "price": "$600.00",
+      "condition": "Very Good",
+      "about": "Really big box. Very spacious. Very comfy. Great hiding spot! Your human will be like, where are you?",
+      "userId": 6,
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "image": "https://hips.hearstapps.com/countryliving.cdnds.net/18/05/2048x1365/gallery-1517227614-bathroom-mat-bath-mat.jpg",
+      "title": "Bath Mat",
+      "userId": 3,
+      "price": "$450.00",
+      "categoryId": 3,
+      "condition": "Loved",
+      "about": "The perfect napping spot."
+    },
+    {
+      "id": 5,
+      "image": "http://2.bp.blogspot.com/_pDJVSRDfxUc/TMSSsAVTjQI/AAAAAAAAC00/m6miiBvhp4M/s1600/IMG_6245.jpg",
+      "title": "Book",
+      "condition": "Like New",
+      "about": "If you wanna sharpen your teeth and intimidate the other cats on the block. This book is for you!",
+      "userId": 4,
+      "price": "$200.00",
+      "categoryId": 4
+    },
+    {
+      "id": 7,
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000755622383.jpg?w=1240",
+      "title": "Suit Case",
+      "condition": "Brand New",
+      "about": "Never been used suit case. It rolls. It is really a 3 in 1: bed, toy, and scratch pad.",
+      "price": "$750.00",
+      "userId": 2,
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "image": "https://joyfulparentingsite.files.wordpress.com/2021/11/paper-ball-owl-1.jpg?w=620",
+      "title": "Paper Wads",
+      "condition": "Used",
+      "about": "Best toy out there! So innovative! You will never be bored",
+      "userId": 2,
+      "price": "$400.00",
+      "categoryId": 1
+    },
+    {
+      "id": 9,
+      "image": "https://graphly.io/wp-content/uploads/toilet-paper.jpg",
+      "title": "Toilet Paper",
+      "condition": "UnRolled",
+      "about": "It just keeps rolling and rolling.",
+      "userId": 2,
+      "price": "$650.00",
+      "categoryId": 1
+    },
+    {
+      "id": 10,
+      "image": "https://preview.redd.it/cat-ate-my-money-tree-should-i-remove-the-chewed-leaves-v0-j6v2lnh5c9k81.jpg?width=1080&crop=smart&auto=webp&s=d18967262dd42e6572e75444d02653c847aff884",
+      "title": "House Plant",
+      "condition": "Good",
+      "about": "I wasn't into the flavor, but maybe you will be.",
+      "userId": 6,
+      "price": "$800.00",
+      "categoryId": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Toys"
+    },
+    {
+      "id": 2,
+      "name": "Scratch Pads"
+    },
+    {
+      "id": 3,
+      "name": "Beds"
+    },
+    {
+      "id": 4,
+      "name": "Chewables"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "image": "https://i.redd.it/duimex7np6u21.jpg",
+      "aboutMe": "I am very passionate about the quality of my products. I will only sell you the best!",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "image": "https://pbs.twimg.com/profile_images/1620244226008289280/iJZZbdW1_400x400.jpg",
+      "aboutMe": "I like belly rubs.",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "image": "https://64.media.tumblr.com/f834d69b837f19b0c7926c6a6fc16f22/tumblr_n3gdicD11I1rgemzbo1_500.jpg",
+      "aboutMe": "Collector of treasures.",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "image": "https://i.pinimg.com/736x/a8/45/1f/a8451fc4aa4b4e3c39298fdfe2c3fd4d.jpg",
+      "aboutMe": "Chase me!",
+      "userId": 4
+    },
+    {
+      "id": 5,
+      "image": "https://i.redd.it/blessed-scrunge-her-name-is-wisp-v0-1sdiuaubhhpb1.jpg?width=1170&format=pjpg&auto=webp&s=4bb9f49200938a80e8bf2d587a7abce3e953b45a",
+      "aboutMe": "I'm just a baby. I don't have any monies.",
+      "userId": 5
+    },
+    {
+      "id": 6,
+      "image": "https://i.pinimg.com/originals/ae/24/87/ae24874dd301843548c034a3d2973658.png",
+      "aboutMe": "Purrrrr",
+      "userId": 6
+    }
+  ],
+  "orders": [
+    {
+      "userId": 3,
+      "postId": 1,
+      "id": 1
+    },
+    {
+      "userId": 7,
+      "postId": 10,
+      "id": 2
+    },
+    {
+      "userId": 7,
+      "postId": 5,
+      "id": 3
+    },
+    {
+      "userId": 7,
+      "postId": 2,
+      "id": 4
+    },
+    {
+      "userId": 7,
+      "postId": 3,
+      "id": 5
+    },
+    {
+      "userId": 7,
+      "postId": 7,
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "postId": 8,
+      "id": 7
+    },
+    {
+      "userId": 7,
+      "postId": 8,
+      "id": 8
+    },
+    {
+      "userId": 7,
+      "postId": 9,
+      "id": 9
+    },
+    {
+      "userId": 7,
+      "postId": 10,
+      "id": 10
+    }
+  ]
+}
